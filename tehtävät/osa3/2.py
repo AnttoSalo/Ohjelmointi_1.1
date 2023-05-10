@@ -1,4 +1,5 @@
 i = input("Hyttiluokka: ")
+i = i.upper()
 if i == "LUX":
     print("LUX on parvekkeellinen hytti yläkannella.")
 elif i == "A":
